@@ -1,0 +1,25 @@
+{
+  "name": "es6_modules",
+  "version": "1.0.0",
+  "description": "## Objective",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JayceePorto/es6_modules.git"
+  },
+  "author": "Jaycee Porto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JayceePorto/es6_modules/issues"
+  },
+  "homepage": "https://github.com/JayceePorto/es6_modules#readme",
+  "keywords": [],
+  "devDependencies": {
+    "webpack": "^5.73.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
